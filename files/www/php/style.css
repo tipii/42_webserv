@@ -1,0 +1,16 @@
+body {
+    background-color: #1f1f1f;
+    color : #d8d8d8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    max-width: 1000px;
+    padding: 150px 200px 150px 200px;
+}
+h1 {
+    font-size: 3rem;
+    margin-top: 0;
+}
+a {
+    color : #00a0df;
+}
